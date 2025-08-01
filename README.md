@@ -13,3 +13,17 @@
 - Dashboard with intern name, referral code, total donations
 - Rewards/unlockables (static)
 - Leaderboard (optional)
+
+
+# All code directory info..
+
+
+intern-portal/
+├── backend/
+│   ├── server.js
+│   ├── database/
+│   └── routes/
+├── frontend/
+│   ├── components/
+│   └── pages/
+└── README.md
